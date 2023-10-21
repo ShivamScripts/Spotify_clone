@@ -6,3 +6,5 @@ This project is a Spotify clone created using HTML and CSS, aiming to replicate 
 > CSS
 
 ![image](https://raw.githubusercontent.com/ShivamScripts/Spotify_clone/master/image.png)
+
+![image](https://raw.githubusercontent.com/ShivamScripts/Spotify_clone/master/Assests/playlist.png)
